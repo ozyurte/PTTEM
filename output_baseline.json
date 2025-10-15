@@ -1,0 +1,26 @@
+{
+    "S1": {
+        "SNR": 4.753451807229187,
+        "Baseline": 4.753451807229187,
+        "Ratio": 1.0,
+        "GCN": "on",
+        "R_Omega": 0.03,
+        "Band": "standard"
+    },
+    "S2": {
+        "SNR": 29.597739677332385,
+        "Baseline": 29.597739677332385,
+        "Ratio": 1.0,
+        "GCN": "on",
+        "R_Omega": 0.03,
+        "Band": "standard"
+    },
+    "S3": {
+        "SNR": 0.0008048406845411032,
+        "Baseline": 0.0008048406845411032,
+        "Ratio": 1.0,
+        "GCN": "on",
+        "R_Omega": 0.03,
+        "Band": "standard"
+    }
+}
